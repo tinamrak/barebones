@@ -6,7 +6,7 @@ You don't have to worry about creating all the files from scratch, just copy thi
 
 CSS and JS source files are located inside the *sass* and *scripts* directories. These are compiled into the *assets* folder, which also includes the *images* and *fonts* directories where you should put all your theme images and fonts.
 
-You can use rem units for font sizes: `1rem = 10px`.
+You can use rem units for font sizes: *1rem = 10px*, *1.8rem = 18px*, etc.
 
 ## Requirements
 
