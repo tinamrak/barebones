@@ -1,4 +1,4 @@
-# A skeleton theme for Drupal 8
+# A skeleton theme for Drupal 8 and Drupal 9
 
 Bare Bones includes only the most essential files to get you started with custom theme development.
 
