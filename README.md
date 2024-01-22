@@ -1,4 +1,4 @@
-# A skeleton theme for Drupal 8 and Drupal 9
+# A skeleton theme for Drupal 9 and 10
 
 Bare Bones includes only the most essential files to get you started with custom theme development.
 
@@ -10,7 +10,7 @@ You can use rem units for font sizes: *1rem = 10px*, *1.8rem = 18px*, etc.
 
 ## Requirements
 
-- [Drupal 8](https://www.drupal.org/)
+- [Drupal 10](https://www.drupal.org/)
 - [Drush](https://www.drush.org/)
 - [git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/)

@@ -1,5 +1,4 @@
-(function($, Drupal) {
-
+(function(Drupal, $) {
 	'use strict';
 
   Drupal.behaviors.example = {
@@ -8,4 +7,4 @@
     }
   };
 
-})(jQuery, Drupal);
+})(Drupal, $);

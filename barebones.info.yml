@@ -1,16 +1,14 @@
 name: Bare Bones
-description: A skeleton theme for Drupal 8.
+description: A skeleton theme for Drupal 9 and 10.
 type: theme
-core: 8.x
-core_version_requirement: ^8 || ^9
-base theme: classy
+core_version_requirement: ^9 || ^10
+base theme: starterkit_theme
 
 libraries:
-  - barebones/global-css
-  - barebones/global-js
+  - barebones/css
+  - barebones/js
 
 regions:
   header: Header
   content: Main content
   footer: Footer
-  

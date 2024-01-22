@@ -1,10 +1,10 @@
-global-css:
+css:
   version: 1.x
   css:
     theme:
       assets/stylesheets/application.css: { minified: false }
 
-global-js:
+js:
   version: 1.x
   js:
     assets/scripts/application.js: { minified: false }
